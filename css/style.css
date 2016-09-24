@@ -35,6 +35,15 @@ nav ul li a{
 	background-color: #00BD9D;
 }
 
+.presentacion p {
+
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top:50px;
+    font-size:22px;
+
+}
+
 .estrella {
 margin-top:50px;
 color:white;
